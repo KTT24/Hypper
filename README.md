@@ -1,4 +1,4 @@
-# hypper
+# Hypper Game
 
 ## Project setup
 ```
